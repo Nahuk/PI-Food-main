@@ -1,0 +1,57 @@
+.cards {
+    display: flex;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-items: stretch;
+}
+
+.main {
+    background-image: url("https://p4.wallpaperbetter.com/wallpaper/936/26/418/fish-table-food-fish-wallpaper-preview.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    min-width: 100vh;
+}
+
+.buttontopcont {
+    display: flex;
+    justify-content:space-around;
+    width: auto;
+    max-width: 100%;
+}
+
+.createboton{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    color:black;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.reloadboton{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: white;
+    color:black;
+    border-radius: 7px;
+    cursor: pointer;
+}
+
+.filters{
+    position: relative;
+    top: 25px;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: none;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}

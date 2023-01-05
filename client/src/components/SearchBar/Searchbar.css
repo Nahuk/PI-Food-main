@@ -1,0 +1,21 @@
+.inputbuscar{
+    border: 1px solid;
+    border-radius: 10px;
+    height: 30px;
+    width: 300px;
+    border: gray solid 2px;
+    padding-left: 4px;
+    position: relative;
+    top: 15px
+}
+
+.buscar{
+    position: relative;
+    top: 17px;
+    background: gray ;
+    border: 0.5px solid bisque;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+    font-size: 18px;
+}

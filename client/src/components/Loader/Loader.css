@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    background: url("https://p4.wallpaperbetter.com/wallpaper/672/503/735/fast-food-junk-food-food-hamburger-wallpaper-preview.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 1000px;
+}
+
+.texto{
+    font-size: 100px;
+    color: aliceblue;
+    position: relative;
+    top: 300px;
+    text-shadow: 4px 4px red, 3px 3px aliceblue;
+    
+}

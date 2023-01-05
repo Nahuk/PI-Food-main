@@ -1,0 +1,72 @@
+.resumen{
+    max-width: 100%;
+    margin: 0 100px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.50);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(1.2px);
+    -webkit-backdrop-filter: blur(1.2px);
+    color: black;
+}
+
+.hs{
+    max-width: 100%;
+    margin: 0 100px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.50);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(1.2px);
+    -webkit-backdrop-filter: blur(1.2px);
+    color: black;
+}
+
+.dt{
+    max-width: 100%;
+    margin: 0 100px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.50);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(1.2px);
+    -webkit-backdrop-filter: blur(1.2px);
+    color: black;
+}
+
+.sbs{
+    max-width: 100%;
+    margin: 0 100px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.50);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(1.2px);
+    -webkit-backdrop-filter: blur(1.2px);
+    color: black;
+}
+
+.main {
+    background-image: url("https://media.istockphoto.com/id/921720226/es/foto/surtido-selecci%C3%B3n-de-alimento-balanceado-saludable-para-el-coraz%C3%B3n-dieta.jpg?b=1&s=170667a&w=0&k=20&c=4dp4eSp4cNfEDtSC4Ccty8yyTBTeQi1Qk5ND9Q_klII=");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    min-width: 100vh;
+}
+ .back{
+    margin-top: 15px;
+    padding: 15px 25px;
+    border: unset;
+    border-radius: 15px;
+    color: #212121;
+    z-index: 1;
+    background: #e8e8e8;
+    position: relative;
+    font-weight: 1000;
+    font-size: 13px;
+    -webkit-box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+    box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+    transition: all 250ms;
+    overflow: hidden;
+ }
